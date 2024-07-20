@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/maansoor_portfolio/static/css/main.ae3e5794.css",
+    "main.js": "/maansoor_portfolio/static/js/main.6c2daeff.js",
+    "static/js/453.1407b060.chunk.js": "/maansoor_portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/2.jpg": "/maansoor_portfolio/static/media/2.3db8945c941915e98888.jpg",
+    "static/media/1.jpg": "/maansoor_portfolio/static/media/1.b2a00de118f014d4974f.jpg",
+    "index.html": "/maansoor_portfolio/index.html",
+    "main.ae3e5794.css.map": "/maansoor_portfolio/static/css/main.ae3e5794.css.map",
+    "main.6c2daeff.js.map": "/maansoor_portfolio/static/js/main.6c2daeff.js.map",
+    "453.1407b060.chunk.js.map": "/maansoor_portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae3e5794.css",
+    "static/js/main.6c2daeff.js"
+  ]
+}
