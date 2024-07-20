@@ -3,16 +3,16 @@ import { Formik, Field, Form, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
 
 const Contact = () => {
-  // Form validation schema using Yup
+  
   const validationSchema = Yup.object({
     name: Yup.string().required('Name is required'),
     email: Yup.string().email('Invalid email address').required('Email is required'),
     message: Yup.string().required('Message is required'),
   });
 
-  // Handle form submission
+  
   const handleSubmit = (values, { resetForm }) => {
-    // Normally here you would handle the form submission (e.g., send data to a server)
+    
     console.log('Form data:', values);
     alert('Message sent!');
     resetForm();

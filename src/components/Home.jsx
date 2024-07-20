@@ -3,7 +3,7 @@ import About from './About';
 import Projects from './Projects';
 import Skills from './Skill';
 import Blog from './Blog';
-import Contact from './Contact';  // Import Contact component
+import Contact from './Contact';  
 
 const Home = () => {
   return (
@@ -27,7 +27,7 @@ const Home = () => {
       <Projects />
       <Skills />
       <Blog />
-      <Contact />  {/* Include Contact component */}
+      <Contact /> 
     </div>
   );
 };

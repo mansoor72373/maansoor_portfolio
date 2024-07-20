@@ -1,19 +1,19 @@
 import React from 'react';
 
 const Blog = () => {
-  // Sample blog posts data with real links
+ 
   const blogPosts = [
     {
       title: "Understanding React Hooks",
       excerpt: "Dive into the world of React Hooks and learn how they can simplify your component logic.",
       date: "July 10, 2024",
-      link: "https://dev.to/johnnyk/react-hooks-a-comprehensive-beginners-guide-3bgc" // Replace with actual link
+      link: "https://dev.to/johnnyk/react-hooks-a-comprehensive-beginners-guide-3bgc" 
     },
     {
       title: "A Guide to Tailwind CSS",
       excerpt: "Discover how Tailwind CSS can help you build beautiful and responsive designs quickly.",
       date: "June 25, 2024",
-      link: "https://www.material-tailwind.com/blog/how-to-learn-tailwind-css" // Replace with actual link
+      link: "https://www.material-tailwind.com/blog/how-to-learn-tailwind-css" 
     },
     {
       title: "Best Practices for Front-End Development",
