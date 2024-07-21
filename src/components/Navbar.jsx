@@ -48,7 +48,7 @@ const Navbar = () => {
         className={`md:hidden fixed top-0 right-0 h-full bg-gray-800 text-white w-64 transform ${isSidebarOpen ? "translate-x-0" : "translate-x-full"} transition-transform duration-300 ease-in-out z-10`}
       >
          
-        <div className="flex  p-4 border-b border-gray-700">
+        <div className="flex  p-4 border-b border-gray-800">
           <div className="text-xl font-bold  flex-grow">My Portfolio</div>
          <div><button onClick={toggleSidebar} className="text-white p-4 text-2xl" aria-label="Close sidebar">
             &times;
