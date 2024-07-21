@@ -28,7 +28,7 @@ const About = () => {
 
           <h3 className="text-2xl sm:text-3xl font-semibold text-gray-800 mb-4">Skills</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <Skill skill="JavaScript" level="90%" />
+            <Skill skill="JavaScript" level="91%" />
             <Skill skill="React.js" level="85%" />
             <Skill skill="HTML/CSS" level="95%" />
             <Skill skill="Tailwind CSS" level="80%" />
