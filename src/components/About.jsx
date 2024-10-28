@@ -3,7 +3,7 @@ import Skill from './Skill';
 
 const About = () => {
   return (
-    <section className="p-6 mt-20 bg-gray-100">
+    <section className="p-6 mt-16 bg-gray-100">
       
       <div className="flex flex-col md:flex-row items-start">
         <div className="w-full md:w-1/3 mb-6 md:mb-0 flex justify-center md:justify-start">
